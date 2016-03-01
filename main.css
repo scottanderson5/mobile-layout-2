@@ -7,7 +7,7 @@
 
 .largebox {
 	background-color: #344051;
-	height: 35em;
+	height: 70em;
 	box-sizing: border-box;
 
 
@@ -16,7 +16,7 @@
 .website {
 	/*width: 42em;*/
 	box-sizing: border-box;
-	padding: 5.8em;
+	padding: 7em;
 	color:white;
 	margin-right: auto;
 	margin-left: auto;
@@ -56,4 +56,22 @@
 .innerbox {
 	background-color: #1E8CBE;
 	height: 2.625em;
+}
+
+.deuce {
+	box-sizing: border-box;
+	/*padding: 7em;*/
+	padding-top: 10.375em;
+	color:white;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.ittybitty {
+	width: 4em;
+	padding: 1em;
+	box-sizing: border-box;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: white;
 }
