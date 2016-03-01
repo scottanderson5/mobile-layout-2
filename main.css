@@ -93,3 +93,17 @@
 	margin-left: auto;
 	background-color: white;
 }
+
+.cyclops {
+
+	background-color: #E8F0F5;
+	height: 15.375em;
+	box-sizing: border-box;
+}
+
+.storm {
+
+	background-color: #D1D3D7;
+	height: 122.1875em;
+	box-sizing: border-box;
+}
