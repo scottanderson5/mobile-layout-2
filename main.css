@@ -1,0 +1,42 @@
+.class {
+	background-color: #118BC0;
+	height: 4.6875em;
+	box-sizing: border-box;
+
+}
+
+.largebox {
+	background-color: #344051;
+	height: 27.125em;
+	box-sizing: border-box;
+
+
+}
+
+.website {
+	width: 35em;
+	box-sizing: border-box;
+	padding: 6em;
+	color:white;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.styleh {
+	width: 11.25em;
+	box-sizing: border-box;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+
+.description {
+	width: 19em;
+	box-sizing: border-box;
+	text-align: center;
+	padding: 1.25em;
+	margin-right: auto;
+	margin-left: auto;
+
+}
