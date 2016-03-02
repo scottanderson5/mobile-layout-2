@@ -104,6 +104,96 @@
 .storm {
 
 	background-color: #D1D3D7;
-	height: 122.1875em;
+	height: 134.5025em;
 	box-sizing: border-box;
 }
+
+.beast {
+
+	background-color: #FFFFFF;
+	width: 40.125em;
+	padding: 9.84375em;
+	box-sizing: border-box;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+.jubilee {
+
+	background-color: #E8F0F5;
+	height: 15.5625em;
+	box-sizing: border-box;
+
+}
+
+.drx {
+	
+	box-sizing: border-box;
+	padding: 10.875em;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+
+.iceman {
+	
+	box-sizing: border-box;
+	width: 13.125em;
+	padding: 1.40625em;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0;
+	background-color: #1E8CBE;
+
+}
+
+.rogue {
+
+	background-color: #000000;
+	height: 9.25em;
+	box-sizing: border-box;	
+	color: white;
+
+}
+
+.sabretooth {
+
+	box-sizing: border-box;
+	padding-top: 1.25em;
+	margin-bottom: 1.5em;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+
+}
+
+.fury {
+
+	margin-bottom: 1em;
+	text-align: center;
+}
+
+.deadpool {
+
+	box-sizing: border-box;
+	padding: 1.25em;
+}
+
+.magneto {
+
+	width: 13.125em;
+	height: 1.0625em;
+	/*box-sizing: border-box;*/
+	margin-right: auto;
+	margin-left: auto;
+	padding: 0.5em;
+	background-color: white;
+
+}
+
+
+
+
+
+
