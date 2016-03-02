@@ -1,9 +1,43 @@
-.class {
+.spiderman {
 	background-color: #118BC0;
 	height: 4.6875em;
+	width: 75%;
+	padding: 1em;
 	box-sizing: border-box;
+	float:left;
 
 }
+
+.cable {
+	margin-right: 1.5625em;
+	margin-left: 0.2em;
+	width: 3.75em;
+	background-color: white;
+	height: 3em;
+	float: left;
+
+}
+
+.jessicajones {
+	height: 3em;
+	width: 10em;
+	/*margin-left: 7em;
+	margin-right: 20em;*/
+	background-color: white;
+	display: inline-block;
+	float: left;
+
+}
+
+.daredevil {
+	box-sizing: border-box;
+	height: 4.6875em;
+	width: 25%;
+	background-color: #0070A4;
+	float: right;
+}
+
+
 
 .largebox {
 	background-color: #344051;
