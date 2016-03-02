@@ -41,7 +41,7 @@
 
 .largebox {
 	background-color: #344051;
-	height: 85.1875em;
+	height: 93.8125em;
 	box-sizing: border-box;
 
 
@@ -50,7 +50,10 @@
 .website {
 	/*width: 42em;*/
 	box-sizing: border-box;
-	padding: 7em;
+	padding-top: 14em;
+	padding-right: 7em;
+	padding-bottom: 7em;
+	padding-left: 7em;
 	color:white;
 	margin-right: auto;
 	margin-left: auto;
@@ -116,16 +119,60 @@
 	padding: 10.875em;
 	margin-right: auto;
 	margin-left: auto;
+
 }
 
-.jeangrey {
+.jeangrey1 {
 
 	width: 24.6875em;
-	padding: 2.8125em;
+	/*padding-top: 1em;*/
 	box-sizing: border-box;
 	margin-right: auto;
 	margin-left: auto;
 	background-color: white;
+	overflow: hidden;
+}
+
+.jeangrey2 {
+
+	width: 24.6875em;
+	/*padding-top: 1em;*/
+	box-sizing: border-box;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: white;
+	overflow: hidden;
+}
+
+.jeangrey3 {
+
+	width: 24.6875em;
+	/*padding-top: 1em;*/
+	box-sizing: border-box;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: white;
+	overflow: hidden;
+}
+
+.antman {
+	background-color: #616E7F;
+	box-sizing: border-box;
+	margin-top: 1em;
+	height: 5em;
+	width: 5.5em;
+	float: left;
+
+}
+
+.captamerica {
+	background-color: #616E7F;
+	box-sizing: border-box;
+	height: 5em;
+	width: 18em;
+	float: right;
+	margin-right: 0.25em;
+	margin-bottom: 1em;
 }
 
 .cyclops {
