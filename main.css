@@ -9,13 +9,15 @@
 }
 
 .cable {
-	margin-right: 1.5625em;
+	margin-right: 0.5em;
 	margin-left: 0.2em;
-	width: 3.2em;
-	background-color: white;
-	height: 3em;
+	width: 1.2em;
+	font-size: 39px;
+	background-color: #118BC0;
+	height: 1.5em;
 	float: left;
 	text-align: center;
+	color: white;
 
 }
 
@@ -28,11 +30,12 @@
 	display: inline-block;
 	float: left;
 	color: white;
-	padding-top: 0.8em;
+	padding-top: 0.6em;
 	font-size: 20px;
 	padding-bottom: 0.17em;
 	text-align: center;
 	font-family: "Open Sans", sans-serif;
+	font-weight: normal;
 
 }
 
@@ -55,12 +58,11 @@
 }
 
 
-
 .largebox {
-	background-color: #344051;
+	/*background-color: #344051;*/
 	height: 96.8125em;
 	box-sizing: border-box;
-
+	background-image: url(file:///Users/embark/Desktop/pic-crowd.webp);
 
 }
 
@@ -132,10 +134,13 @@
 .ittybitty {
 	width: 4em;
 	padding: 1em;
+	font-size: 20px;
 	box-sizing: border-box;
+	color: white;
 	margin-right: auto;
 	margin-left: auto;
-	background-color: white;
+	/*background-color: white;*/
+	opacity: 100%;
 }
 
 .wolverine {
@@ -154,7 +159,8 @@
 	box-sizing: border-box;
 	margin-right: auto;
 	margin-left: auto;
-	background-color: #344051;
+	/*background-color: #344051;*/
+	opacity: 100%;
 	overflow: hidden;
 }
 
@@ -165,7 +171,8 @@
 	box-sizing: border-box;
 	margin-right: auto;
 	margin-left: auto;
-	background-color: #344051;
+	/*background-color: #344051;*/
+	opacity: 100%;
 	overflow: hidden;
 }
 
@@ -176,23 +183,65 @@
 	box-sizing: border-box;
 	margin-right: auto;
 	margin-left: auto;
-	background-color: #344051;
+	/*background-color: #344051;*/
 	overflow: hidden;
+	opacity: 100%;
+
 }
 
-.antman {
-	background-color: white;
+.antman1 {
+	/*background-color: white;*/
+	text-align: center;
+	color: white;
+	font-size: 70px;
 	box-sizing: border-box;
-	margin-top: 1em;
-	height: 5em;
-	width: 5.5em;
+	padding-left: 0.2em;
+	margin-right: 0.5em;
+	/*margin-top: 1em;*/
+	height: 1.5em;
+	/*width: 1em;*/
 	float: left;
 	font-family: "Open Sans", sans-serif;
+	opacity: 100%;
 
+}
+
+
+.antman2 {
+	
+	/*background-color: white;*/
+	text-align: center;
+	color: white;
+	font-size: 50px;
+	box-sizing: border-box;
+	/*margin-top: 1em;*/
+	height: 1.5em;
+	margin-right: 0.5em;
+	width: 1em;
+	float: left;
+	font-family: "Open Sans", sans-serif;
+	opacity: 100%;
+}
+
+.antman3 {
+	
+	/*background-color: white;*/
+	text-align: center;
+	color: white;
+	font-size: 70px;
+	box-sizing: border-box;
+	/*margin-top: 1em;*/
+	height: 1.5em;
+	/*width: 1em;*/
+	margin-top: 0.5;
+	margin-right: 0.1;
+	float: left;
+	font-family: "Open Sans", sans-serif;
+	opacity: 100%;
 }
 
 .captamerica {
-	background-color: #344051;
+	/*background-color: #344051;*/
 	box-sizing: border-box;
 	font-size: 17.5px;
 	color: white;
@@ -202,12 +251,14 @@
 	/*width: 9em;*/
 	float: left;
 	margin-right: 0.25em;
+	opacity:100%;
 	font-family: "Open Sans", sans-serif;
 	/*margin-bottom: 1em;*/
 }
 
 .second-dial-box {
-	background-color: #344051;
+	/*background-color: #344051;*/
+	opacity: 100%;
 	font-size: 12px;
 	box-sizing: border-box;
 	color: #D5D6D7;
