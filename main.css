@@ -292,7 +292,7 @@
 .storm {
 
 	background-color: #D1D3D7;
-	height: 161.5025em;
+	height: 139.5025em;
 	box-sizing: border-box;
 	padding: 2em;
 }
@@ -300,7 +300,7 @@
 .beast {
 
 	background-color: #FFFFFF;
-	height: 24em;
+	height: 20em;
 	/*width: 40.125em;*/
 	padding: 2.21875em;
 	box-sizing: border-box;
@@ -311,10 +311,15 @@
 
 .smallbox {
 	background-color: #C7D2D8;
-	height: 7.125em;
-	width: 7em;
+	padding-top: 0.5em;
+	height: 1.6em;
+	font-size: 35px;
+	width: 2em;
+	text-align: center;
 	margin-right: auto;
 	margin-left: auto;
+	border-radius: 50%;
+	color: #547C98;
 }
 
 .middlebox {
