@@ -11,30 +11,39 @@
 .cable {
 	margin-right: 1.5625em;
 	margin-left: 0.2em;
-	width: 3.75em;
+	width: 3.2em;
 	background-color: white;
 	height: 3em;
 	float: left;
+	text-align: center;
 
 }
 
 .jessicajones {
-	height: 3em;
-	width: 10em;
+	height: 1.5em;
+	/*width: 10em;*/
 	/*margin-left: 7em;
 	margin-right: 20em;*/
-	background-color: white;
+	background-color: #1189BE;
 	display: inline-block;
 	float: left;
+	color: white;
+	padding-top: 0.8em;
+	font-size: 20px;
+	padding-bottom: 0.17em;
+	text-align: center;
 
 }
 
 .daredevil {
 	box-sizing: border-box;
+	padding-top: 1.7em;
+	color: white;
 	height: 4.6875em;
 	width: 25%;
 	background-color: #0070A4;
 	float: right;
+	text-align: center;
 }
 
 
@@ -92,7 +101,10 @@
 
 .innerbox {
 	background-color: #1E8CBE;
-	height: 2.625em;
+	height: 2em;
+	font-size: 22px;
+	text-align: center;
+	padding-top: 1em;
 }
 
 .deuce {
@@ -129,7 +141,7 @@
 	box-sizing: border-box;
 	margin-right: auto;
 	margin-left: auto;
-	background-color: white;
+	background-color: #344051;
 	overflow: hidden;
 }
 
@@ -140,7 +152,7 @@
 	box-sizing: border-box;
 	margin-right: auto;
 	margin-left: auto;
-	background-color: white;
+	background-color: #344051;
 	overflow: hidden;
 }
 
@@ -151,12 +163,12 @@
 	box-sizing: border-box;
 	margin-right: auto;
 	margin-left: auto;
-	background-color: white;
+	background-color: #344051;
 	overflow: hidden;
 }
 
 .antman {
-	background-color: #616E7F;
+	background-color: white;
 	box-sizing: border-box;
 	margin-top: 1em;
 	height: 5em;
@@ -166,20 +178,45 @@
 }
 
 .captamerica {
-	background-color: #616E7F;
+	background-color: #344051;
 	box-sizing: border-box;
-	height: 5em;
-	width: 18em;
-	float: right;
+	font-size: 20px;
+	color: white;
+	padding-top: 1em;
+	padding-left: 0.5em;
+	height: 2.855em;
+	width: 9em;
+	float: left;
 	margin-right: 0.25em;
-	margin-bottom: 1em;
+	/*margin-bottom: 1em;*/
+}
+
+.second-dial-box {
+	background-color: #344051;
+	box-sizing: border-box;
+	color: #D5D6D7;
+	/*padding-top: 1em;*/
+	padding-left: 0.69em;
+	/*padding-bottom: 2em;*/
+	height: 2.855em;
+	width: 18em;
+	float: left;
+	margin-right: 0.25em;
+	/*margin-bottom: 1em;*/
+
 }
 
 .cyclops {
 
 	background-color: #E8F0F5;
-	height: 15.375em;
+	color: #283A50;
+	padding: 0.9em;
+	height: 7.375em;
 	box-sizing: border-box;
+	text-align: center;
+	line-height: 52.8px;
+	font-size: 29px;
+
 }
 
 .storm {
