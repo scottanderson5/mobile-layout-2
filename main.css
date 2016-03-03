@@ -71,7 +71,7 @@
 }
 
 .description {
-	width: 19em;
+	/*width: 19em;*/
 	box-sizing: border-box;
 	text-align: center;
 	padding: 1.25em;
@@ -185,19 +185,40 @@
 .storm {
 
 	background-color: #D1D3D7;
-	height: 134.5025em;
+	height: 161.5025em;
 	box-sizing: border-box;
 }
 
 .beast {
 
 	background-color: #FFFFFF;
+	height: 24em;
 	width: 40.125em;
-	padding: 9.84375em;
+	padding: 2.21875em;
 	box-sizing: border-box;
 	margin-right: auto;
 	margin-left: auto;
 
+}
+
+.smallbox {
+	background-color: #C7D2D8;
+	height: 7.125em;
+	width: 7em;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.middlebox {
+	background-color: #C7D2D8;
+	height: 2.625em;
+	margin-top: 1.1875em;
+}
+
+.bottombox {
+	background-color: #C7D2D8;
+	height: 5.5em;
+	margin-top: 1.8125em;
 }
 
 .jubilee {
